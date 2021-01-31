@@ -10,7 +10,7 @@ function getOddItem(arr){
     });
     for (let num in counts){
         var count = counts[num];
-        if (count % 2 ==1){ return num}
+        if (count % 2 ==1){ return parseInt(num)}
     }
 }
 
