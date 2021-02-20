@@ -1,0 +1,21 @@
+{
+  "name": "odd-item-in-array",
+  "version": "1.0.0",
+  "description": "Find ood item in an array",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jasmine": "^3.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "odd-item"
+  ],
+  "author": "ehsabd",
+  "license": "ISC"
+}
